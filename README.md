@@ -47,11 +47,11 @@ For detailed information about data variables and structure, please refer to `co
 
 ### Experimental Data
 
-- `participant.code`: Unique participant ID
+- `ID`: Unique participant ID
 - `condition`: Experimental condition (disp/no-disp)
 - `block`: Game block (1stBlock/2ndBlock)
 - `round`: Round number (1-30 per block)
-- `contr`: Participant contribution
+- `contribution`: Participant contribution
 - `payoff`: Round payoff
 
 ### Cross-Cultural Data
